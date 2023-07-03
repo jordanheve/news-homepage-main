@@ -11,8 +11,8 @@ export const HamburgerMenu = ({setCheckValue, checkValue}) => {
             setCheckValue(!checkValue)
             )} 
             checked={checkValue}/>
-            <div className="hamburger-menu__bar"></div>
-            <div className="hamburger-menu__bar"></div>
+            <span className="hamburger-menu__bar"></span>
+            <span className="hamburger-menu__bar"></span>
         </label>
     </>
   )
