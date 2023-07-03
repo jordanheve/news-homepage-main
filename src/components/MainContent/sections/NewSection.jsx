@@ -3,7 +3,7 @@ export const NewSection = () => {
     <section className="new-section" id="new">
     <h2 className="new-section__header">New</h2>
     <div className="new-section__container">
-    <a href="/#">
+    <a href="./#">
       <h3 className="new-section__container__header">Hydrogen VS Electric Cars</h3>
 
     </a>
@@ -12,7 +12,7 @@ export const NewSection = () => {
     <hr className="new-section__hr"/>
 
     <div className="new-section__container">
-      <a href="/#">
+      <a href="./#">
       <h3 className="new-section__container__header">The Downsides of AI Artistry</h3>
 
 
@@ -23,7 +23,7 @@ export const NewSection = () => {
     <hr className="new-section__hr"/>
 
     <div className="new-section__container">
-    <a href="/#">
+    <a href="./#">
       <h3 className="new-section__container__header">Is VC Funding Drying Up?</h3>
     </a>
 
