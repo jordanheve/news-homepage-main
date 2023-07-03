@@ -7,19 +7,19 @@ export const Navbar = ({checkValue, setCheckValue}) => {
         }`}>
             <ul className="navbar__ul" onClick={() => setCheckValue(false)}>
                 <li className="navbar__ul__li">
-                    <a href="/#home">Home</a>
+                    <a href="./#home">Home</a>
                 </li>
                 <li className="navbar__ul__li">
-                    <a href="/#new">New</a> 
+                    <a href="./#new">New</a> 
                 </li>
                 <li className="navbar__ul__li">
-                    <a href="/#">Popular</a>
+                    <a href="./#">Popular</a>
                 </li>
                 <li className="navbar__ul__li">
-                    <a href="/#trending">Trending</a> 
+                    <a href="./#trending">Trending</a> 
                 </li>
                 <li className="navbar__ul__li">
-                    <a href="/#">Categories</a>
+                    <a href="./#">Categories</a>
                 </li>
             </ul>
         </nav>

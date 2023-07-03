@@ -255,6 +255,13 @@ a {
   color: var(--Dark-grayish-blue)
 }
 
+.footer{
+  text-align: center;
+}
+
+.footer a {
+  color: var(--Soft-red)
+}
 
 @media (min-width: 768px)  {
   .header {
